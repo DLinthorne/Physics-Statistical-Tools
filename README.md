@@ -4,7 +4,7 @@ Analysis tools for physics computations and statistics
 
 ## Numerical Methods & Inference
 The following scripts focus on applying numerical methods on complex physical systems and the proper inference on results
-- [Partial_waves.ipynb](Partial_waves.ipynb) A notbook that calculates the scattering cross sections using partial wave analysis. The notebook uses estimated models to constrain the parameters of the partial wave method, using numerical optimizers.
+- [Partial_waves.ipynb](Partial_waves.ipynb) is a notbook that calculates the scattering cross sections using partial wave analysis. The notebook uses estimated models to constrain the parameters of the partial wave method using numerical optimizers.
 
 ## `ROOT`Statistical/ML Methods
 
